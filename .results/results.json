@@ -1,0 +1,64 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content \"Our Team\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content starting with \"Meet the talented professionals\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML heading element with text content \"Sarah Johnson\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML heading elements with text content as the name of each team member",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content \"Frontend Developer\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML paragraph elements with text content as the role of each team member",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML image element with alt attribute value as \"Sarah Johnson\" and correct src",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML image elements with alt as name and correct src for each team member",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "Page should display the department for the first team member in the format \"Department: Engineering\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCP0OVKV_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "Page should display the department for all team members in the format \"Department: {department}\"",
+      "errorMessages": []
+    }
+  ]
+}

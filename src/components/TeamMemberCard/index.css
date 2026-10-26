@@ -1,0 +1,43 @@
+.member-card {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 32px 24px;
+  margin: 16px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.member-img {
+  width: 150px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.member-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 16px;
+  text-align: center;
+}
+
+.member-role {
+  color: #3b82f6;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 4px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.member-department {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-top: 4px;
+  text-align: center;
+  font-weight: bold;
+}
